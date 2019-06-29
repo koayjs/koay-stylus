@@ -1,0 +1,44 @@
+{
+  "name": "koay-stylus",
+  "version": "1.0.0",
+  "description": "A stylus middleware for Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "koay",
+    "koa2",
+    "koa-stylus",
+    "koa2-stylus",
+    "koay-stylus",
+    "stylus",
+    "css",
+    "sass",
+    "less"
+  ],
+  "author": "Jesse Feng",
+  "license": "MIT",
+  "dependencies": {
+    "celia": "^5.5.1",
+    "kyla": "^1.0.2",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.2",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koayjs/koay-stylus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koayjs/koay-stylus/issues"
+  },
+  "homepage": "https://github.com/koayjs/koay-stylus#readme"
+}
